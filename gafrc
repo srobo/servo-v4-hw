@@ -1,0 +1,4 @@
+(reset-component-library)
+
+(define cpath "./sym")
+(load "./sym/gafrc")

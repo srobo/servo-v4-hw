@@ -1,0 +1,4 @@
+lib-command = /bin/true
+lib-contents-command = /bin/true
+lib-newlib = ./pkg
+lib-name = 
