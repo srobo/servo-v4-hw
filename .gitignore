@@ -3,5 +3,5 @@
 *.bak*
 *.new.pcb
 *.png
-power-schematic.pdf
+servo-schematic.pdf
 bom.html
