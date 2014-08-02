@@ -3,7 +3,7 @@ PCB=pcb
 PROJECTRC=projectrc
 
 BOARD=servo
-SCH=servo-1-title.sch servo-2-power.sch servo-3-control.sch servo-4-output.sch
+SCH=servo-1-title.sch servo-2-control.sch servo-3-power.sch servo-4-output.sch
 
 SHELL=/bin/bash
 
