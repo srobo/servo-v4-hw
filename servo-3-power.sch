@@ -3,9 +3,9 @@ C 39500 41000 0 0 0 title-A1.sym
 T 65600 41800 9 30 1 0 0 0 1
 Servo Board v4 - Power
 T 65600 41400 9 8 1 0 0 0 1
-servo-v4-hw.git/servo-2-title.sch
+servo-v4-hw.git/servo-3-title.sch
 T 66000 41100 9 10 1 0 0 0 1
-2
+3
 T 67700 41100 9 10 1 0 0 0 1
 5
 T 69500 41100 9 8 1 0 0 0 1

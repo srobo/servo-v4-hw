@@ -27,7 +27,7 @@ T 41600 44400 9 10 1 0 0 4 1
 3
 T 42300 45200 9 10 1 0 0 1 1
 Title, Block Diagram
-T 42300 44800 9 10 1 0 0 1 1
+T 42300 44400 9 10 1 0 0 1 1
 Power (Reverse Polarity Protection, 5V5 SMPS, 5V LDO, Power Monitoring, MOSFET Switch)
 T 42300 44000 9 10 1 0 0 1 1
 Output (I2C Isolator, GPIO Expander, Servo Outputs)
@@ -45,7 +45,7 @@ T 41600 44000 9 10 1 0 0 4 1
 L 41000 43800 50500 43800 3 0 1 0 -1 -1
 T 41600 43600 9 10 1 0 0 4 1
 5
-T 42300 44400 9 10 1 0 0 1 1
+T 42300 44800 9 10 1 0 0 1 1
 Control (µC, USB)
 T 42300 43600 9 10 1 0 0 1 1
 Mechanical

@@ -3,9 +3,9 @@ C 44500 37500 0 0 0 title-A1.sym
 T 70600 38300 9 30 1 0 0 0 1
 Servo Board v4 - Control
 T 70600 37900 9 8 1 0 0 0 1
-servo-v4-hw.git/servo-3-control.sch
+servo-v4-hw.git/servo-2-control.sch
 T 71000 37600 9 10 1 0 0 0 1
-3
+2
 T 72700 37600 9 10 1 0 0 0 1
 5
 T 74500 37600 9 8 1 0 0 0 1
