@@ -65,7 +65,7 @@ C 57900 54400 1 270 0 resistor-iec-1.sym
 T 58250 54000 5 10 0 0 270 0 1
 device=RESISTOR
 T 58200 54000 5 10 1 1 0 0 1
-refdes=R30
+refdes=R28
 T 58200 53800 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -80,7 +80,7 @@ C 53900 57900 1 270 0 resistor-iec-1.sym
 T 54250 57500 5 10 0 0 270 0 1
 device=RESISTOR
 T 54200 57700 5 10 1 1 270 0 1
-refdes=R28
+refdes=R26
 }
 N 60700 55900 54000 55900 4
 N 60700 56100 53500 56100 4
@@ -359,7 +359,7 @@ C 56400 57900 1 270 0 resistor-iec-1.sym
 T 56750 57500 5 10 0 0 270 0 1
 device=RESISTOR
 T 56700 57500 5 10 1 1 0 0 1
-refdes=R29
+refdes=R27
 T 56700 57300 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -371,7 +371,7 @@ C 58900 58600 1 270 0 resistor-iec-1.sym
 T 59250 58200 5 10 0 0 270 0 1
 device=RESISTOR
 T 59200 58200 5 10 1 1 0 0 1
-refdes=R27
+refdes=R25
 T 59200 58000 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -616,14 +616,14 @@ C 59900 49300 1 270 0 resistor-iec-1.sym
 T 60250 48900 5 10 0 0 270 0 1
 device=RESISTOR
 T 60200 49100 5 10 1 1 270 0 1
-refdes=R33
+refdes=R31
 }
 C 59900 47400 1 270 0 resistor-iec-1.sym
 {
 T 60250 47000 5 10 0 0 270 0 1
 device=RESISTOR
 T 60200 47200 5 10 1 1 270 0 1
-refdes=R34
+refdes=R32
 }
 N 60000 47400 60000 48400 4
 C 59900 45800 1 0 0 gnd-3.sym
@@ -654,7 +654,7 @@ C 53400 49300 1 270 0 resistor-iec-1.sym
 T 53750 48900 5 10 0 0 270 0 1
 device=RESISTOR
 T 53700 49100 5 10 1 1 270 0 1
-refdes=R31
+refdes=R29
 }
 N 53500 48400 53500 47800 4
 C 53400 45900 1 0 0 gnd-3.sym
@@ -681,7 +681,7 @@ C 56400 49300 1 270 0 resistor-iec-1.sym
 T 56750 48900 5 10 0 0 270 0 1
 device=RESISTOR
 T 56700 49100 5 10 1 1 270 0 1
-refdes=R32
+refdes=R30
 }
 N 56500 48400 56500 47800 4
 C 56400 45900 1 0 0 gnd-3.sym
@@ -805,7 +805,7 @@ device=NPN_TRANSISTOR
 T 61200 47400 5 10 0 0 0 0 1
 footprint=SOT23_sr.fp
 T 61800 47900 5 10 1 1 0 0 1
-refdes=Q?
+refdes=Q7
 T 61800 47700 5 10 1 1 0 0 1
 value=sr-npn-bc846b
 }

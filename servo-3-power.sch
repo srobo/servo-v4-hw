@@ -44,7 +44,7 @@ C 63600 56300 1 0 0 resistor-iec-1.sym
 T 64000 56650 5 10 0 0 0 0 1
 device=RESISTOR
 T 63400 56800 5 10 1 1 0 0 1
-refdes=R17
+refdes=R18
 T 63400 56600 5 10 1 1 0 0 1
 value=sr-r-3m-1210-1w
 }
@@ -75,7 +75,7 @@ C 62900 55000 1 270 0 resistor-iec-1.sym
 T 63250 54600 5 10 0 0 270 0 1
 device=RESISTOR
 T 63200 54600 5 10 1 1 0 0 1
-refdes=R20
+refdes=R19
 T 63200 54400 5 10 1 1 0 0 1
 value=sr-r-10-0402
 }
@@ -84,7 +84,7 @@ C 65000 55000 1 270 0 resistor-iec-1.sym
 T 65350 54600 5 10 0 0 270 0 1
 device=RESISTOR
 T 65300 54600 5 10 1 1 0 0 1
-refdes=R22
+refdes=R21
 T 65300 54400 5 10 1 1 0 0 1
 value=sr-r-10-0402
 }
@@ -140,7 +140,7 @@ C 60600 61900 1 270 0 capacitor-np-1.sym
 T 61300 61700 5 10 0 0 270 0 1
 device=CAPACITOR
 T 61100 61500 5 10 1 1 0 0 1
-refdes=C21
+refdes=C22
 T 61500 61700 5 10 0 0 270 0 1
 symversion=0.1
 T 61100 61300 5 10 1 1 0 0 1
@@ -230,7 +230,7 @@ C 52400 53900 1 270 0 resistor-iec-1.sym
 T 52750 53500 5 10 0 0 270 0 1
 device=RESISTOR
 T 52700 53500 5 10 1 1 0 0 1
-refdes=R21
+refdes=R20
 T 52700 53300 5 10 1 1 0 0 1
 value=sr-r-2k49-0402
 }
@@ -356,7 +356,7 @@ C 50200 48000 1 180 0 pmos-powerpak1212-1.sym
 T 49975 46450 5 10 0 0 180 0 1
 device=PMOS_TRANSISTOR
 T 49400 47500 5 10 1 1 0 6 1
-refdes=Q4
+refdes=Q3
 T 49400 47300 5 10 1 1 0 6 1
 value=sr-fet-p-si7655adn
 }
@@ -365,7 +365,7 @@ C 51200 46100 1 270 0 resistor-iec-1.sym
 T 51550 45700 5 10 0 0 270 0 1
 device=RESISTOR
 T 51500 45700 5 10 1 1 0 0 1
-refdes=R25
+refdes=R23
 T 51500 45500 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -394,7 +394,7 @@ C 59500 47700 1 90 0 pmos-powerpak1212-1.sym
 T 57950 47925 5 10 0 0 90 0 1
 device=PMOS_TRANSISTOR
 T 58300 48900 5 10 1 1 0 0 1
-refdes=Q5
+refdes=Q4
 T 58300 48700 5 10 1 1 0 0 1
 value=sr-fet-p-si7655adn
 }
@@ -403,7 +403,7 @@ C 66000 47700 1 270 1 pmos-powerpak1212-1.sym
 T 67550 47925 5 10 0 0 90 2 1
 device=PMOS_TRANSISTOR
 T 66000 48900 5 10 1 1 0 0 1
-refdes=Q6
+refdes=Q5
 T 66000 48700 5 10 1 1 0 0 1
 value=sr-fet-p-si7655adn
 }
@@ -415,7 +415,7 @@ C 59900 47700 1 270 0 resistor-iec-1.sym
 T 60250 47300 5 10 0 0 270 0 1
 device=RESISTOR
 T 60200 47300 5 10 1 1 0 0 1
-refdes=R24
+refdes=R22
 T 60200 47100 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -447,7 +447,7 @@ C 65900 45200 1 0 0 nmos-sot323-gsd-1.sym
 T 66125 46550 5 10 0 0 0 0 1
 device=NMOS_TRANSISTOR
 T 66600 45700 5 10 1 1 0 0 1
-refdes=Q7
+refdes=Q6
 T 66600 45500 5 10 1 1 0 0 1
 value=sr-fet-n-bsh121
 }
@@ -458,7 +458,7 @@ C 64300 45100 1 270 0 resistor-iec-1.sym
 T 64650 44700 5 10 0 0 270 0 1
 device=RESISTOR
 T 64600 44700 5 10 1 1 0 0 1
-refdes=R26
+refdes=R24
 T 64600 44500 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -506,7 +506,7 @@ C 43300 60200 1 270 0 capacitor-np-1.sym
 T 44000 60000 5 10 0 0 270 0 1
 device=CAPACITOR
 T 43800 59800 5 10 1 1 0 0 1
-refdes=C22
+refdes=C21
 T 44200 60000 5 10 0 0 270 0 1
 symversion=0.1
 T 43800 59600 5 10 1 1 0 0 1
@@ -657,7 +657,7 @@ C 47300 54900 1 270 0 resistor-iec-1.sym
 T 47650 54500 5 10 0 0 270 0 1
 device=RESISTOR
 T 47600 54500 5 10 1 1 0 0 1
-refdes=R18
+refdes=R17
 T 47600 54300 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
