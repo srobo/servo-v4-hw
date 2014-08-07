@@ -336,7 +336,7 @@ refdes=R15
 T 51500 59500 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
-C 42400 58400 1 0 0 gnd-3.sym
+C 43100 58400 1 0 0 gnd-3.sym
 C 51200 58900 1 0 0 gnd-3.sym
 N 55800 61900 55800 62000 4
 C 51500 60300 1 90 0 zener-1.sym
@@ -670,4 +670,123 @@ N 47400 54900 48400 54900 4
 {
 T 47900 54955 5 10 1 1 0 3 1
 netname=5V_LDO
+}
+C 41700 60800 1 0 0 test-point.sym
+{
+T 41800 61300 5 10 1 1 0 3 1
+refdes=TP13
+T 42100 61700 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 41900 58700 1 180 0 test-point.sym
+{
+T 41800 58200 5 10 1 1 180 3 1
+refdes=TP17
+T 41500 57800 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 51900 62000 1 0 0 test-point.sym
+{
+T 52000 62500 5 10 1 1 0 3 1
+refdes=TP12
+T 52300 62900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 62900 62000 1 0 0 test-point.sym
+{
+T 63000 62500 5 10 1 1 0 3 1
+refdes=TP14
+T 63300 62900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 60100 60900 1 180 0 test-point.sym
+{
+T 60000 60400 5 10 1 1 180 3 1
+refdes=TP16
+T 59700 60000 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 52900 56400 1 0 0 test-point.sym
+{
+T 53000 56900 5 10 1 1 0 3 1
+refdes=TP18
+T 53300 57300 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 65400 56400 1 0 0 test-point.sym
+{
+T 65500 56900 5 10 1 1 0 3 1
+refdes=TP19
+T 65800 57300 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 49600 53500 1 180 0 test-point.sym
+{
+T 49500 53000 5 10 1 1 180 3 1
+refdes=TP21
+T 49200 52600 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 47400 53700 1 90 0 test-point.sym
+{
+T 46900 53800 5 10 1 1 0 7 1
+refdes=TP20
+T 46500 54100 5 10 0 0 90 0 1
+device=TESTPOINT
+}
+C 41700 46800 1 0 0 test-point.sym
+{
+T 41800 47300 5 10 1 1 0 3 1
+refdes=TP22
+T 42100 47700 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 41900 44700 1 180 0 test-point.sym
+{
+T 41800 44200 5 10 1 1 180 3 1
+refdes=TP26
+T 41500 43800 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 53900 48000 1 0 0 test-point.sym
+{
+T 54000 48500 5 10 1 1 0 3 1
+refdes=TP23
+T 54300 48900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 50700 60200 1 180 0 test-point.sym
+{
+T 50600 59700 5 10 1 1 180 3 1
+refdes=TP15
+T 50300 59300 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 50700 46200 1 180 0 test-point.sym
+{
+T 50600 45700 5 10 1 1 180 3 1
+refdes=TP25
+T 50300 45300 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 62900 48000 1 0 0 test-point.sym
+{
+T 63000 48500 5 10 1 1 0 3 1
+refdes=TP24
+T 63300 48900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 63100 46500 1 180 0 test-point.sym
+{
+T 63000 46000 5 10 1 1 180 3 1
+refdes=TP27
+T 62700 45600 5 10 0 0 180 0 1
+device=TESTPOINT
+}
+C 64300 45400 1 0 0 test-point.sym
+{
+T 64400 45900 5 10 1 1 0 3 1
+refdes=TP28
+T 64700 46300 5 10 0 0 0 0 1
+device=TESTPOINT
 }
