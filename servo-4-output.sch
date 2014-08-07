@@ -211,6 +211,8 @@ T 66900 54600 5 10 0 0 0 0 1
 slot=1
 T 66700 54900 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 54600 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 53800 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -222,6 +224,8 @@ T 66900 53800 5 10 0 0 0 0 1
 slot=2
 T 66700 54100 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 53800 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 53000 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -233,6 +237,8 @@ T 66900 53000 5 10 0 0 0 0 1
 slot=3
 T 66700 53300 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 53000 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 52200 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -244,6 +250,8 @@ T 66900 52200 5 10 0 0 0 0 1
 slot=4
 T 66700 52500 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 52200 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 51400 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -255,6 +263,8 @@ T 66700 51900 5 10 1 1 0 0 1
 refdes=RN6
 T 66700 51700 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 51400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 49800 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -266,6 +276,8 @@ T 66700 50300 5 10 1 1 0 0 1
 refdes=RN6
 T 66700 50100 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 49800 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 50600 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -277,6 +289,8 @@ T 66700 51100 5 10 1 1 0 0 1
 refdes=RN6
 T 66700 50900 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 50600 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 49000 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -288,6 +302,8 @@ T 66700 49500 5 10 1 1 0 0 1
 refdes=RN6
 T 66700 49300 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 49000 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 63900 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -299,6 +315,8 @@ T 66700 64400 5 10 1 1 0 0 1
 refdes=RN4
 T 66700 64200 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 63900 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 63100 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -310,6 +328,8 @@ T 66700 63600 5 10 1 1 0 0 1
 refdes=RN4
 T 66700 63400 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 63100 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 62300 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -321,6 +341,8 @@ T 66700 62800 5 10 1 1 0 0 1
 refdes=RN4
 T 66700 62600 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 62300 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 66900 61500 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -332,6 +354,8 @@ T 66700 62000 5 10 1 1 0 0 1
 refdes=RN4
 T 66700 61800 5 10 1 1 0 0 1
 value=sr-ra-4-330-0402
+T 66900 61500 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 75700 48400 1 0 0 gnd-3.sym
 N 75800 48900 77000 48900 4
@@ -690,6 +714,8 @@ T 54100 47000 5 10 0 0 270 0 1
 symversion=0.1
 T 54100 47200 5 10 1 1 0 0 1
 value=sr-led-green-0805
+T 53300 47800 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 53400 49300 1 270 0 resistor-iec-1.sym
 {
@@ -721,6 +747,8 @@ T 57100 47400 5 10 1 1 0 0 1
 refdes=DS16
 T 57100 47200 5 10 1 1 0 0 1
 value=sr-led-green-0805
+T 56300 47800 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 56400 49300 1 270 0 resistor-iec-1.sym
 {
@@ -762,6 +790,8 @@ T 70100 60800 5 10 1 1 0 0 1
 refdes=D12
 T 70100 60600 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 68700 60100 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 71500 60100 1 0 0 tvs-dual-unidirectional-1.sym
 {
@@ -771,6 +801,8 @@ T 72900 60800 5 10 1 1 0 0 1
 refdes=D13
 T 72900 60600 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 71500 60100 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 69300 59800 1 0 0 gnd-3.sym
 C 72100 59800 1 0 0 gnd-3.sym
@@ -786,6 +818,8 @@ T 70100 48300 5 10 1 1 0 0 1
 refdes=D17
 T 70100 48100 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 68700 47600 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 71500 47600 1 0 0 tvs-dual-unidirectional-1.sym
 {
@@ -795,6 +829,8 @@ T 72900 48300 5 10 1 1 0 0 1
 refdes=D18
 T 72900 48100 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 71500 47600 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 69300 47300 1 0 0 gnd-3.sym
 C 72100 47300 1 0 0 gnd-3.sym
@@ -810,6 +846,8 @@ T 70100 55700 5 10 1 1 0 0 1
 refdes=D14
 T 70100 55500 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 70100 56300 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 N 69000 55200 69000 53900 4
 N 69800 55200 69800 54700 4
@@ -821,6 +859,8 @@ T 72900 55700 5 10 1 1 0 0 1
 refdes=D15
 T 72900 55500 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 72900 56300 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 N 71800 55200 71800 52300 4
 N 72600 55200 72600 53900 4
@@ -850,6 +890,8 @@ T 74800 66100 5 10 1 1 0 0 1
 refdes=D11
 T 74800 65900 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
+T 74200 65600 5 10 0 0 0 0 1
+footprint=SOD523_sr.fp
 }
 N 75800 63800 77000 63800 4
 C 74400 65300 1 0 0 gnd-3.sym
@@ -861,6 +903,8 @@ T 74800 56800 5 10 1 1 0 0 1
 refdes=D16
 T 74800 56600 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
+T 74200 56300 5 10 0 0 0 0 1
+footprint=SOD523_sr.fp
 }
 C 74400 56000 1 0 0 gnd-3.sym
 N 75800 54500 77000 54500 4

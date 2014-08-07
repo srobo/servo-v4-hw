@@ -18,6 +18,8 @@ T 46000 47800 5 10 1 1 0 0 1
 refdes=J2
 T 46000 47600 5 10 1 1 0 0 1
 value=sr-cn-usb-micro-b
+T 46000 45600 5 10 0 0 0 0 1
+footprint=FCI_10103592_sr.fp
 }
 C 49800 49400 1 270 0 capacitor-np-1.sym
 {
@@ -110,6 +112,8 @@ T 48300 49000 5 10 1 1 0 0 1
 refdes=D5
 T 48300 48800 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
+T 47700 48500 5 10 0 0 0 0 1
+footprint=SOD523_sr.fp
 }
 C 50500 46100 1 0 0 STF202-1.sym
 {
@@ -119,6 +123,8 @@ T 50800 48300 5 10 0 0 0 0 1
 device=STF202
 T 50800 47700 5 10 1 1 0 0 1
 value=sr-ic-stf202
+T 50500 46100 5 10 0 0 0 0 1
+footprint=SOT26_sr.fp
 }
 C 71700 44700 1 0 0 crystal-1.sym
 {
@@ -130,6 +136,8 @@ T 71900 45800 5 10 0 0 0 0 1
 symversion=0.1
 T 71000 45400 5 10 1 1 0 0 1
 value=sr-xtal-abmm2-8.000mhz-e2-t
+T 71700 44700 5 10 0 0 0 0 1
+footprint=ABMM2_sr.fp
 }
 C 69300 44100 1 270 0 capacitor-np-1.sym
 {
@@ -459,6 +467,8 @@ T 60500 58200 5 10 0 0 270 0 1
 symversion=0.1
 T 60500 58400 5 10 1 1 0 0 1
 value=sr-led-green-0805
+T 59700 59000 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 58300 58900 1 0 0 resistor-iec-1.sym
 {
@@ -491,6 +501,8 @@ T 60000 52300 5 10 1 1 0 0 1
 refdes=D4
 T 60000 52100 5 10 1 1 0 0 1
 value=sr-d-bat54c
+T 58700 51900 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 54700 54600 1 0 0 resistor-iec-1.sym
 {
@@ -560,6 +572,8 @@ T 62100 53700 5 10 0 0 270 0 1
 symversion=0.1
 T 61900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 61300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 61400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -571,6 +585,8 @@ T 61400 55400 5 10 0 1 0 0 1
 slot=1
 T 61700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 61400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 61500 55400 61500 56000 4
 {
@@ -588,6 +604,8 @@ T 63900 54200 5 10 1 1 0 0 1
 refdes=DS3
 T 63900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 63300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 63400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -599,6 +617,8 @@ T 63400 55400 5 10 0 1 0 0 1
 slot=2
 T 63700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 63400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 63500 55400 63500 56000 4
 {
@@ -616,6 +636,8 @@ T 65900 54200 5 10 1 1 0 0 1
 refdes=DS4
 T 65900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 65300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 65400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -627,6 +649,8 @@ T 65400 55400 5 10 0 1 0 0 1
 slot=3
 T 65700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 65400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 65500 55400 65500 56000 4
 {
@@ -644,6 +668,8 @@ T 67900 54200 5 10 1 1 0 0 1
 refdes=DS5
 T 67900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 67300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 67400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -655,6 +681,8 @@ T 67400 55400 5 10 0 1 0 0 1
 slot=4
 T 67700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 67400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 67500 55400 67500 56000 4
 {
@@ -672,6 +700,8 @@ T 69900 54200 5 10 1 1 0 0 1
 refdes=DS6
 T 69900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 69300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 69400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -683,6 +713,8 @@ T 69700 55000 5 10 1 1 0 0 1
 refdes=RN2
 T 69700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 69400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 69500 55400 69500 56000 4
 {
@@ -700,6 +732,8 @@ T 71900 54200 5 10 1 1 0 0 1
 refdes=DS7
 T 71900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 71300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 71400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -711,6 +745,8 @@ T 71700 55000 5 10 1 1 0 0 1
 refdes=RN2
 T 71700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 71400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 71500 55400 71500 56000 4
 {
@@ -728,6 +764,8 @@ T 73900 54200 5 10 1 1 0 0 1
 refdes=DS8
 T 73900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 73300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 73400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -739,6 +777,8 @@ T 73700 55000 5 10 1 1 0 0 1
 refdes=RN2
 T 73700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 73400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 73500 55400 73500 56000 4
 {
@@ -756,6 +796,8 @@ T 75900 54200 5 10 1 1 0 0 1
 refdes=DS9
 T 75900 54000 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 75300 54500 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 75400 55400 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -767,6 +809,8 @@ T 75700 55000 5 10 1 1 0 0 1
 refdes=RN2
 T 75700 54800 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 75400 55400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 75500 55400 75500 56000 4
 {
@@ -789,6 +833,8 @@ T 69900 52300 5 10 1 1 0 0 1
 refdes=DS11
 T 69900 52100 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 69300 52600 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 69400 51700 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -800,6 +846,8 @@ T 69700 51300 5 10 1 1 0 0 1
 refdes=RN3
 T 69700 51100 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 69400 51700 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 69500 49800 69500 50800 4
 {
@@ -816,6 +864,8 @@ T 71900 52300 5 10 1 1 0 0 1
 refdes=DS12
 T 71900 52100 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 71300 52600 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 71400 51700 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -827,6 +877,8 @@ T 71700 51300 5 10 1 1 0 0 1
 refdes=RN3
 T 71700 51100 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 71400 51700 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 71500 49800 71500 50800 4
 {
@@ -843,6 +895,8 @@ T 73900 52300 5 10 1 1 0 0 1
 refdes=DS13
 T 73900 52100 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 73300 52600 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 73400 51700 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -854,6 +908,8 @@ T 73700 51300 5 10 1 1 0 0 1
 refdes=RN3
 T 73700 51100 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 73400 51700 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 73500 49800 73500 50800 4
 {
@@ -870,6 +926,8 @@ T 75900 52300 5 10 1 1 0 0 1
 refdes=DS14
 T 75900 52100 5 10 1 1 0 0 1
 value=sr-led-blue-0805
+T 75300 52600 5 10 0 0 0 0 1
+footprint=0805_led_sr.fp
 }
 C 75400 51700 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -881,6 +939,8 @@ T 75700 51300 5 10 1 1 0 0 1
 refdes=RN3
 T 75700 51100 5 10 1 1 0 0 1
 value=sr-ra-4-100-0402
+T 75400 51700 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 N 75500 49800 75500 50800 4
 {
@@ -965,12 +1025,12 @@ T 66400 52500 5 10 0 0 270 0 1
 device=LED
 T 65200 52200 5 10 1 1 0 0 1
 refdes=DS10
-T 66000 52500 5 10 0 0 270 0 1
-footprint=dual_led
 T 64500 52600 5 10 0 0 0 0 1
 slot=1
 T 65200 52000 5 10 1 1 0 0 1
 value=sr-led-redblue-dual
+T 64500 52600 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 66900 52600 1 270 0 led-dual-1.sym
 {
@@ -978,12 +1038,12 @@ T 68800 52500 5 10 0 0 270 0 1
 device=LED
 T 67600 52200 5 10 1 1 0 0 1
 refdes=DS10
-T 68400 52500 5 10 0 0 270 0 1
-footprint=dual_led
 T 66900 52600 5 10 0 0 0 0 1
 slot=2
 T 67600 52000 5 10 1 1 0 0 1
 value=sr-led-redblue-dual
+T 66900 52600 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 64600 51700 1 270 0 resistor-iec-1.sym
 {
@@ -1039,6 +1099,8 @@ T 46500 54300 5 10 1 1 0 6 1
 refdes=J1
 T 46500 54100 5 10 1 1 0 6 1
 value=sr-cn-minicamcon4w
+T 46000 52700 5 10 0 0 0 0 1
+footprint=camcon_38_4_sr.fp
 }
 C 47300 50900 1 0 0 tvs-dual-unidirectional-1.sym
 {
@@ -1048,6 +1110,8 @@ T 48700 51600 5 10 1 1 0 0 1
 refdes=D3
 T 48700 51400 5 10 1 1 0 0 1
 value=sr-d-mmbz15val
+T 47300 50900 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 47900 50600 1 0 0 gnd-2.sym
 N 48000 50900 46800 50900 4
@@ -1073,6 +1137,8 @@ T 47100 59900 5 10 1 1 0 0 1
 refdes=D1
 T 47100 59700 5 10 1 1 0 0 1
 value=sr-d-bat54c
+T 47100 59600 5 10 0 0 0 0 1
+footprint=SOT23_sr.fp
 }
 C 50200 58100 1 90 0 zener-1.sym
 {
