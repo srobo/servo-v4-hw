@@ -135,7 +135,7 @@ refdes=C20
 T 56500 61700 5 10 0 0 270 0 1
 symversion=0.1
 T 56100 61300 5 10 1 1 0 0 1
-value=sr-c-1u-0402-10v
+value=sr-c-1u-0603-16v
 }
 C 60600 61900 1 270 0 capacitor-np-1.sym
 {
