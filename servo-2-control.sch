@@ -1,4 +1,4 @@
-v 20140308 2
+v 20111231 2
 C 44500 37500 0 0 0 title-A1.sym
 T 70600 38300 9 30 1 0 0 0 1
 Servo Board v4 - Control
@@ -1150,6 +1150,8 @@ T 50300 58600 5 10 1 1 0 0 1
 refdes=D2
 T 50300 58400 5 10 1 1 0 0 1
 value=sr-d-1sma5918bt3g
+T 50200 58100 5 10 0 0 0 0 1
+footprint=DO214AC_sr.fp
 }
 C 48500 58800 1 0 0 ptc-resettable-fuse-1.sym
 {

@@ -1,4 +1,4 @@
-v 20140308 2
+v 20111231 2
 C 47000 44500 0 0 0 title-A1.sym
 T 73100 45300 9 30 1 0 0 0 1
 Servo Board v4 - Output
@@ -105,6 +105,8 @@ T 53900 60600 5 10 0 0 0 0 1
 isPartition=true
 T 54200 62200 5 10 1 1 0 0 1
 value=sr-ic-si8602ac
+T 53900 60600 5 10 0 0 0 0 1
+footprint=SOIC8_sr.fp
 }
 C 51400 55000 1 0 0 Si8602.sym
 {
@@ -118,6 +120,8 @@ T 51400 55000 5 10 0 0 0 0 1
 isPartition=true
 T 51700 56600 5 10 1 1 0 0 1
 value=sr-ic-si8602ac
+T 51400 55000 5 10 0 0 0 0 1
+footprint=SOIC8_sr.fp
 }
 C 51300 62000 1 270 0 capacitor-np-1.sym
 {

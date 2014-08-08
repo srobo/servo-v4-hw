@@ -1,4 +1,4 @@
-v 20140308 2
+v 20111231 2
 C 39500 41000 0 0 0 title-A1.sym
 T 65600 41800 9 30 1 0 0 0 1
 Servo Board v4 - Power
@@ -365,6 +365,8 @@ T 49400 61500 5 10 1 1 0 6 1
 refdes=Q2
 T 49400 61300 5 10 1 1 0 6 1
 value=sr-fet-p-si7655adn
+T 50200 62000 5 10 0 0 0 0 1
+footprint=PowerPAK1212_sr.fp
 }
 N 41800 60800 49900 60800 4
 C 51200 60100 1 270 0 resistor-iec-1.sym
@@ -405,6 +407,8 @@ T 49400 47500 5 10 1 1 0 6 1
 refdes=Q3
 T 49400 47300 5 10 1 1 0 6 1
 value=sr-fet-p-si7655adn
+T 50200 48000 5 10 0 0 0 0 1
+footprint=PowerPAK1212_sr.fp
 }
 C 51200 46100 1 270 0 resistor-iec-1.sym
 {
@@ -447,6 +451,8 @@ T 58300 48900 5 10 1 1 0 0 1
 refdes=Q4
 T 58300 48700 5 10 1 1 0 0 1
 value=sr-fet-p-si7655adn
+T 59500 47700 5 10 0 0 0 0 1
+footprint=PowerPAK1212_sr.fp
 }
 C 66000 47700 1 270 1 pmos-powerpak1212-1.sym
 {
@@ -456,6 +462,8 @@ T 66000 48900 5 10 1 1 0 0 1
 refdes=Q5
 T 66000 48700 5 10 1 1 0 0 1
 value=sr-fet-p-si7655adn
+T 66000 47700 5 10 0 0 0 0 1
+footprint=PowerPAK1212_sr.fp
 }
 N 59500 48400 59500 48000 4
 N 59500 48000 66000 48000 4
