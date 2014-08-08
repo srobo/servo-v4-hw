@@ -1,4 +1,4 @@
-v 20111231 2
+v 20140308 2
 C 44500 37500 0 0 0 title-A1.sym
 T 70600 38300 9 30 1 0 0 0 1
 Servo Board v4 - Control
@@ -92,6 +92,8 @@ T 63400 56400 5 10 0 0 0 0 1
 isPartition=true
 T 63700 59600 5 10 1 1 0 0 1
 value=sr-ic-stm32f103c6u
+T 63400 56400 5 10 0 0 0 0 1
+footprint=QFN48_5_EP_sr.fp
 }
 C 58500 41800 1 0 0 STM32F103Cx.sym
 {
@@ -103,6 +105,8 @@ T 58500 41800 5 10 0 0 0 0 1
 isPartition=true
 T 58800 49600 5 10 1 1 0 0 1
 value=sr-ic-stm32f103c6u
+T 58500 41800 5 10 0 0 0 0 1
+footprint=QFN48_5_EP_sr.fp
 }
 C 47700 48500 1 0 0 tvs-unidirectional-1.sym
 {
@@ -405,7 +409,7 @@ device=REGULATOR
 T 54400 59600 5 10 1 1 0 0 1
 refdes=U1
 T 54800 59900 5 10 0 0 0 0 1
-footprint=SOT89.fp
+footprint=SOT89_sr.fp
 T 54400 59400 5 10 1 1 0 0 1
 value=sr-ic-mcp1700t3302emb
 }

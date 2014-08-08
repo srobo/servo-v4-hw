@@ -1,4 +1,4 @@
-v 20111231 2
+v 20140308 2
 C 39500 41000 0 0 0 title-A1.sym
 T 65600 41800 9 30 1 0 0 0 1
 Servo Board v4 - Power
@@ -138,7 +138,7 @@ device=REGULATOR
 T 57700 62600 5 10 1 1 0 0 1
 refdes=U4
 T 58100 62900 5 10 0 0 0 0 1
-footprint=SOT89.fp
+footprint=SOT89_sr.fp
 T 57700 62400 5 10 1 1 0 0 1
 value=sr-ic-mcp1703t5002emb
 }
