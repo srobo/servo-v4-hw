@@ -197,6 +197,8 @@ T 67400 48800 5 10 1 1 0 3 1
 refdes=J3
 T 67300 48600 5 10 1 1 0 0 1
 value=sr-cn-header2x5-1.27mm
+T 67000 46600 5 10 0 0 0 0 1
+footprint=header_127_10w_sr.fp
 }
 C 53900 44700 1 270 0 resistor-iec-1.sym
 {
@@ -1181,6 +1183,8 @@ T 48600 53600 5 10 1 1 0 0 1
 refdes=L4
 T 48600 53400 5 10 1 1 0 0 1
 value=sr-fb-200m-1k-0402
+T 48800 53100 5 10 0 0 0 0 1
+footprint=0402_sr.fp
 }
 C 48800 54600 1 0 0 ferrite-bead-1.sym
 {
@@ -1190,6 +1194,8 @@ T 48600 55100 5 10 1 1 0 0 1
 refdes=L3
 T 48600 54900 5 10 1 1 0 0 1
 value=sr-fb-200m-1k-0402
+T 48800 54600 5 10 0 0 0 0 1
+footprint=0402_sr.fp
 }
 C 50600 54700 1 270 0 capacitor-np-1.sym
 {
@@ -1355,6 +1361,8 @@ T 56900 57600 5 10 1 1 180 3 1
 refdes=TP3
 T 56600 57200 5 10 0 0 180 0 1
 device=TESTPOINT
+T 57000 58100 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 56800 59000 1 0 0 test-point.sym
 {
@@ -1362,6 +1370,8 @@ T 56900 59500 5 10 1 1 0 3 1
 refdes=TP2
 T 57200 59900 5 10 0 0 0 0 1
 device=TESTPOINT
+T 56800 59000 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 53400 59000 1 0 0 test-point.sym
 {
@@ -1369,6 +1379,8 @@ T 53500 59500 5 10 1 1 0 3 1
 refdes=TP1
 T 53800 59900 5 10 0 0 0 0 1
 device=TESTPOINT
+T 53400 59000 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 51900 56200 1 0 0 test-point.sym
 {
@@ -1376,6 +1388,8 @@ T 52000 56700 5 10 1 1 0 3 1
 refdes=TP4
 T 52300 57100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 51900 56200 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 54400 49400 1 0 0 test-point.sym
 {
@@ -1383,6 +1397,8 @@ T 54500 49900 5 10 1 1 0 3 1
 refdes=TP7
 T 54800 50300 5 10 0 0 0 0 1
 device=TESTPOINT
+T 54400 49400 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 56300 54700 1 0 0 test-point.sym
 {
@@ -1390,6 +1406,8 @@ T 56400 55200 5 10 1 1 0 3 1
 refdes=TP5
 T 56700 55600 5 10 0 0 0 0 1
 device=TESTPOINT
+T 56300 54700 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 56800 54700 1 0 0 test-point.sym
 {
@@ -1397,6 +1415,8 @@ T 56900 55200 5 10 1 1 0 3 1
 refdes=TP6
 T 57200 55600 5 10 0 0 0 0 1
 device=TESTPOINT
+T 56800 54700 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 53900 41500 1 0 0 test-point.sym
 {
@@ -1404,6 +1424,8 @@ T 54000 42000 5 10 1 1 0 3 1
 refdes=TP9
 T 54300 42400 5 10 0 0 0 0 1
 device=TESTPOINT
+T 53900 41500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 53900 40500 1 0 0 test-point.sym
 {
@@ -1411,6 +1433,8 @@ T 54000 41000 5 10 1 1 0 3 1
 refdes=TP10
 T 54300 41400 5 10 0 0 0 0 1
 device=TESTPOINT
+T 53900 40500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 56900 42500 1 0 0 test-point.sym
 {
@@ -1418,6 +1442,8 @@ T 57000 43000 5 10 1 1 0 3 1
 refdes=TP8
 T 57300 43400 5 10 0 0 0 0 1
 device=TESTPOINT
+T 56900 42500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 66100 41500 1 0 0 test-point.sym
 {
@@ -1425,4 +1451,6 @@ T 66200 42000 5 10 1 1 0 3 1
 refdes=TP11
 T 66500 42400 5 10 0 0 0 0 1
 device=TESTPOINT
+T 66100 41500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
