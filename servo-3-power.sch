@@ -193,6 +193,8 @@ T 49800 57000 5 10 1 1 0 0 1
 refdes=U5
 T 49800 56800 5 10 1 1 0 0 1
 value=sr-ic-pvx012a0x3
+T 49500 54900 5 10 0 0 0 0 1
+footprint=PVX012A0X3_sr.fp
 }
 C 44600 56400 1 270 0 capacitor-np-1.sym
 {

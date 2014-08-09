@@ -1,4 +1,4 @@
-v 20111231 2
+v 20140308 2
 C 47000 44500 0 0 0 title-A1.sym
 T 73100 45300 9 30 1 0 0 0 1
 Servo Board v4 - Output
@@ -195,6 +195,8 @@ T 75000 55200 5 10 1 1 0 0 1
 refdes=J7
 T 75000 55000 5 10 1 1 0 0 1
 value=sr-cn-header3x8-ra
+T 74600 48500 5 10 0 0 0 0 1
+footprint=header_254_3_24w_sr.fp
 }
 C 74600 61000 1 0 0 connector12-3.sym
 {
@@ -204,6 +206,8 @@ T 75000 64500 5 10 1 1 0 0 1
 refdes=J6
 T 75000 64300 5 10 1 1 0 0 1
 value=sr-cn-header3x4-ra
+T 74600 61000 5 10 0 0 0 0 1
+footprint=header_254_3_12w_sr.fp
 }
 C 66900 54600 1 0 0 resistor-iec-array-4-1.sym
 {
