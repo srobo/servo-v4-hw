@@ -628,7 +628,7 @@ symversion=0.1
 T 77800 53500 5 10 1 1 0 0 1
 value=sr-c-22u-0805-10v
 T 77300 54100 5 10 0 0 0 0 1
-footprint=1210_sr.fp
+footprint=0805_sr.fp
 }
 N 77500 52500 77000 52500 4
 C 77300 52500 1 270 0 capacitor-np-1.sym
@@ -642,7 +642,7 @@ symversion=0.1
 T 77800 51900 5 10 1 1 0 0 1
 value=sr-c-22u-0805-10v
 T 77300 52500 5 10 0 0 0 0 1
-footprint=1210_sr.fp
+footprint=0805_sr.fp
 }
 N 77500 50900 77000 50900 4
 C 77300 50900 1 270 0 capacitor-np-1.sym
@@ -656,7 +656,7 @@ symversion=0.1
 T 77800 50300 5 10 1 1 0 0 1
 value=sr-c-22u-0805-10v
 T 77300 50900 5 10 0 0 0 0 1
-footprint=1210_sr.fp
+footprint=0805_sr.fp
 }
 N 77500 49300 77000 49300 4
 C 77300 49300 1 270 0 capacitor-np-1.sym
@@ -670,7 +670,7 @@ symversion=0.1
 T 77800 48700 5 10 1 1 0 0 1
 value=sr-c-22u-0805-10v
 T 77300 49300 5 10 0 0 0 0 1
-footprint=1210_sr.fp
+footprint=0805_sr.fp
 }
 N 63100 56100 64500 56100 4
 {
