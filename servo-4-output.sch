@@ -576,7 +576,7 @@ net=3V3_LDO:1
 T 48900 62600 5 10 0 0 0 0 1
 device=none
 T 48800 62000 5 10 1 1 0 7 1
-value=3V3_LDO
+value=3V3
 }
 C 48300 61000 1 0 0 input-1.sym
 {
@@ -928,3 +928,4 @@ device=TESTPOINT
 T 63100 48400 5 10 0 0 0 0 1
 footprint=TP_sr.fp
 }
+C 50300 62000 1 0 0 3V3-plus-1.sym
