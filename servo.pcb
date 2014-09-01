@@ -1701,7 +1701,7 @@ Element["" "FSMRA2JH_sr.fp" "S1" "sr-sw-button-ra" 54.0000mm 91.1000mm 0.0000 0.
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP11" "unknown" 91.7000mm 93.2000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP11" "unknown" 91.7000mm 93.2000mm -1.3000mm -1.0000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1713,7 +1713,7 @@ Element["onsolder" "TP_sr.fp" "TP11" "unknown" 91.7000mm 93.2000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP8" "unknown" 91.1000mm 95.4000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP8" "unknown" 91.1000mm 95.4000mm -3.5000mm 0.6000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1725,7 +1725,7 @@ Element["onsolder" "TP_sr.fp" "TP8" "unknown" 91.1000mm 95.4000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP10" "unknown" 59.6000mm 91.7000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP10" "unknown" 59.6000mm 91.7000mm -4.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1737,7 +1737,7 @@ Element["onsolder" "TP_sr.fp" "TP10" "unknown" 59.6000mm 91.7000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP9" "unknown" 59.6000mm 93.8000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP9" "unknown" 59.6000mm 93.8000mm 2.0000mm 0.5000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1749,7 +1749,7 @@ Element["onsolder" "TP_sr.fp" "TP9" "unknown" 59.6000mm 93.8000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP6" "unknown" 62.2000mm 97.7000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP6" "unknown" 62.2000mm 97.7000mm -1.1000mm 5.1000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1761,7 +1761,7 @@ Element["onsolder" "TP_sr.fp" "TP6" "unknown" 62.2000mm 97.7000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP5" "unknown" 58.3000mm 97.7000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP5" "unknown" 58.3000mm 97.7000mm -3.5000mm 0.5000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1773,7 +1773,7 @@ Element["onsolder" "TP_sr.fp" "TP5" "unknown" 58.3000mm 97.7000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP7" "unknown" 64.1000mm 95.8000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP7" "unknown" 64.1000mm 95.8000mm 1.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1785,7 +1785,7 @@ Element["onsolder" "TP_sr.fp" "TP7" "unknown" 64.1000mm 95.8000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP4" "unknown" 54.2000mm 102.6000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP4" "unknown" 54.2000mm 102.6000mm 1.2000mm 0.2000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1797,7 +1797,7 @@ Element["onsolder" "TP_sr.fp" "TP4" "unknown" 54.2000mm 102.6000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP1" "unknown" 72.8000mm 101.4000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP1" "unknown" 72.8000mm 101.4000mm 1.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1809,7 +1809,7 @@ Element["onsolder" "TP_sr.fp" "TP1" "unknown" 72.8000mm 101.4000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP2" "unknown" 72.8000mm 98.3000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP2" "unknown" 72.8000mm 98.3000mm -1.1000mm -0.9000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1821,7 +1821,7 @@ Element["onsolder" "TP_sr.fp" "TP2" "unknown" 72.8000mm 98.3000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP3" "unknown" 95.3000mm 93.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP3" "unknown" 95.3000mm 93.0000mm 0.8000mm -0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1833,7 +1833,7 @@ Element["onsolder" "TP_sr.fp" "TP3" "unknown" 95.3000mm 93.0000mm 0.0000 0.0000 
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP21" "unknown" 82.9000mm 53.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP21" "unknown" 82.9000mm 53.0000mm -4.1000mm -0.1000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1845,7 +1845,7 @@ Element["onsolder" "TP_sr.fp" "TP21" "unknown" 82.9000mm 53.0000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP19" "unknown" 66.3000mm 65.4000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP19" "unknown" 66.3000mm 65.4000mm -3.4000mm -0.9000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1857,7 +1857,7 @@ Element["onsolder" "TP_sr.fp" "TP19" "unknown" 66.3000mm 65.4000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP18" "unknown" 70.7000mm 65.4000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP18" "unknown" 70.7000mm 65.4000mm -1.5000mm -0.9000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1869,7 +1869,7 @@ Element["onsolder" "TP_sr.fp" "TP18" "unknown" 70.7000mm 65.4000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP16" "unknown" 52.4000mm 55.5000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP16" "unknown" 52.4000mm 55.5000mm -0.8000mm -1.4000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1881,7 +1881,7 @@ Element["onsolder" "TP_sr.fp" "TP16" "unknown" 52.4000mm 55.5000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP14" "unknown" 69.4000mm 89.4000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP14" "unknown" 69.4000mm 89.4000mm -1.5000mm 2.4000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1893,7 +1893,7 @@ Element["onsolder" "TP_sr.fp" "TP14" "unknown" 69.4000mm 89.4000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP12" "unknown" 82.1000mm 60.5000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP12" "unknown" 82.1000mm 60.5000mm -1.5000mm -1.0000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1905,7 +1905,7 @@ Element["onsolder" "TP_sr.fp" "TP12" "unknown" 82.1000mm 60.5000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP17" "unknown" 60.0000mm 56.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP17" "unknown" 60.0000mm 56.0000mm -2.7000mm -1.9000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1917,7 +1917,7 @@ Element["onsolder" "TP_sr.fp" "TP17" "unknown" 60.0000mm 56.0000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP13" "unknown" 62.0000mm 56.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP13" "unknown" 62.0000mm 56.0000mm -0.3000mm -1.9000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1929,7 +1929,7 @@ Element["onsolder" "TP_sr.fp" "TP13" "unknown" 62.0000mm 56.0000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP28" "unknown" 83.4000mm 81.5000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP28" "unknown" 83.4000mm 81.5000mm 1.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1941,7 +1941,7 @@ Element["onsolder" "TP_sr.fp" "TP28" "unknown" 83.4000mm 81.5000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP27" "unknown" 91.8000mm 62.6000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP27" "unknown" 91.8000mm 62.6000mm 1.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1953,7 +1953,7 @@ Element["onsolder" "TP_sr.fp" "TP27" "unknown" 91.8000mm 62.6000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP24" "unknown" 91.8000mm 65.2000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP24" "unknown" 91.8000mm 65.2000mm 1.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1965,7 +1965,7 @@ Element["onsolder" "TP_sr.fp" "TP24" "unknown" 91.8000mm 65.2000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP25" "unknown" 97.8000mm 58.3000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP25" "unknown" 97.8000mm 58.3000mm -1.6000mm -1.2000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1977,7 +1977,7 @@ Element["onsolder" "TP_sr.fp" "TP25" "unknown" 97.8000mm 58.3000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP15" "unknown" 72.2000mm 55.3000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP15" "unknown" 72.2000mm 55.3000mm -1.4000mm -1.0000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -1989,7 +1989,7 @@ Element["onsolder" "TP_sr.fp" "TP15" "unknown" 72.2000mm 55.3000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP23" "unknown" 96.0000mm 67.9000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP23" "unknown" 96.0000mm 67.9000mm -4.5000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -2001,7 +2001,7 @@ Element["onsolder" "TP_sr.fp" "TP23" "unknown" 96.0000mm 67.9000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP26" "unknown" 89.6000mm 53.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP26" "unknown" 89.6000mm 53.0000mm -0.9000mm 6.3000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -2013,7 +2013,7 @@ Element["onsolder" "TP_sr.fp" "TP26" "unknown" 89.6000mm 53.0000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP22" "unknown" 92.9000mm 53.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP22" "unknown" 92.9000mm 53.0000mm 1.3000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -2025,7 +2025,7 @@ Element["onsolder" "TP_sr.fp" "TP22" "unknown" 92.9000mm 53.0000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP20" "unknown" 86.3000mm 53.0000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP20" "unknown" 86.3000mm 53.0000mm -5.3000mm 3.1000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -2037,7 +2037,7 @@ Element["onsolder" "TP_sr.fp" "TP20" "unknown" 86.3000mm 53.0000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP31" "unknown" 81.8000mm 83.3000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP31" "unknown" 81.8000mm 83.3000mm 1.4000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -2049,7 +2049,7 @@ Element["onsolder" "TP_sr.fp" "TP31" "unknown" 81.8000mm 83.3000mm 0.0000 0.0000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP30" "unknown" 3000.00mil 89.4000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP30" "unknown" 3000.00mil 89.4000mm -1.4000mm -0.9000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -2061,7 +2061,7 @@ Element["onsolder" "TP_sr.fp" "TP30" "unknown" 3000.00mil 89.4000mm 0.0000 0.000
 
 	)
 
-Element["onsolder" "TP_sr.fp" "TP29" "unknown" 3000.00mil 91.6000mm 0.0000 0.0000 0 100 "auto"]
+Element["onsolder" "TP_sr.fp" "TP29" "unknown" 3000.00mil 91.6000mm 1.2000mm 0.8000mm 0 100 "auto"]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
@@ -5845,6 +5845,13 @@ Layer(5 "outline")
 )
 Layer(6 "silk")
 (
+	Line[84.6000mm 55.3000mm 85.8000mm 54.1000mm 0.2000mm 0.5000mm "clearline"]
+	Line[90.3000mm 57.7000mm 90.3000mm 54.4000mm 0.2000mm 0.5000mm "clearline"]
+	Line[90.3000mm 54.4000mm 90.0000mm 54.1000mm 0.2000mm 0.5000mm "clearline"]
+	Line[59.0000mm 54.3000mm 59.6000mm 54.9000mm 0.2000mm 0.5000mm "clearline"]
+	Line[63.0000mm 54.3000mm 62.4000mm 54.9000mm 0.2000mm 0.5000mm "clearline"]
+	Line[61.9000mm 101.2000mm 61.9000mm 98.9000mm 0.2000mm 0.5000mm "clearline"]
+	Line[61.3000mm 93.7000mm 60.8000mm 93.7000mm 0.2000mm 0.5000mm "clearline"]
 )
 Layer(7 "silk")
 (
