@@ -88,7 +88,7 @@ device=RESISTOR
 T 54200 57500 5 10 1 1 0 0 1
 refdes=R26
 T 54200 57300 5 10 1 1 0 0 1
-value=sr-r-1k5-0402
+value=sr-r-1k-0402
 T 53900 57900 5 10 0 0 0 0 1
 footprint=0402_sr.fp
 }

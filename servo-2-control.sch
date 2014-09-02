@@ -222,7 +222,7 @@ device=RESISTOR
 T 51700 42100 5 10 1 1 0 0 1
 refdes=R10
 T 51700 41900 5 10 1 1 0 0 1
-value=sr-r-1k5-0402
+value=sr-r-1k-0402
 T 51400 42500 5 10 0 0 0 0 1
 footprint=0402_sr.fp
 }
@@ -233,7 +233,7 @@ device=RESISTOR
 T 48700 42100 5 10 1 1 0 0 1
 refdes=R9
 T 48700 41900 5 10 1 1 0 0 1
-value=sr-r-1k5-0402
+value=sr-r-1k-0402
 T 48400 42500 5 10 0 0 0 0 1
 footprint=0402_sr.fp
 }
