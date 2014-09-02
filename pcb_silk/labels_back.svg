@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="177.16534"
+   height="191.33858"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="labels_back.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="75.188165"
+     inkscape:cy="96.864683"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="0.1mm"
+       spacingy="0.1mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-861.0236)">
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="109.84252"
+       y="988.58264"
+       id="text4706"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="109.84252"
+         y="988.58264"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         id="tspan4712">Servo Board</tspan><tspan
+         sodipodi:role="line"
+         x="109.84252"
+         y="1001.0826"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         id="tspan3006">V4 Rev B</tspan></text>
+    <g
+       id="g2818"
+       transform="matrix(0.3816122,0,0,0.3816122,-108.3892,725.53479)">
+      <path
+         id="path3205"
+         d="m 521.60404,517.65838 c 8.32037,8.56313 13.13501,20.43701 13.12817,32.37668 -0.003,12.15382 -5.00759,24.23181 -13.60253,32.82497 -8.59495,8.59315 -20.67397,13.5957 -32.82779,13.5957 -12.15383,0 -24.23285,-5.00255 -32.8278,-13.5957 -8.59494,-8.59316 -13.60001,-20.67115 -13.60253,-32.82497 -0.007,-12.37858 5.18424,-24.67825 14.05869,-33.30804 8.87446,-8.6298 21.31442,-13.47546 33.68796,-13.12228 11.93493,0.33645 23.66547,5.4905 31.98583,14.05364 z m -34.49882,5.93051 c -0.25581,0.052 -0.51887,0.16152 -0.83765,0.23932 -0.63758,0.15557 -1.47113,0.4301 -2.51298,0.71799 -2.08371,0.57583 -5.00131,1.34559 -8.25695,2.39332 -6.51126,2.09548 -14.61621,5.0943 -21.42017,8.49628 -1.36706,0.69385 -2.30346,2.16631 -2.3521,3.6986 -0.0487,1.53229 0.79247,3.06117 2.11277,3.84034 6.29056,3.69228 11.52297,6.48749 16.75321,8.97494 -9.80388,4.33025 -17.11221,10.41091 -17.11221,10.41091 -1.83896,1.3802 -2.2111,4.34137 -0.77085,6.13368 1.44025,1.79232 4.41211,2.06634 6.15582,0.56761 0,0 13.40956,-10.32547 25.01014,-12.32558 1.91853,-0.28346 3.52304,-2.01373 3.66121,-3.94815 0.13818,-1.93443 -1.20412,-3.87518 -3.06288,-4.42845 -6.41835,-2.03507 -12.10067,-4.95068 -18.42853,-8.49627 4.18564,-1.67735 8.3152,-3.45336 12.08625,-4.66697 3.134,-1.0086 5.93828,-1.85179 7.89793,-2.39331 0.87174,-0.24091 1.52857,-0.47227 2.03432,-0.59834 0.57133,0.15334 1.39022,0.43863 2.39332,0.71801 2.00618,0.55871 4.73597,1.39935 7.89795,2.39331 3.77183,1.18567 7.92251,2.91 12.08623,4.5473 -6.16938,3.39707 -11.68487,6.27615 -18.42853,8.7356 -1.74811,0.68911 -2.91129,2.62989 -2.69488,4.49641 0.21641,1.86653 1.79279,3.48967 3.6522,3.76053 4.84718,0.6059 11.21717,3.6327 16.15488,6.58162 4.93773,2.94891 8.37662,5.62429 8.37662,5.62429 1.7437,1.49879 4.71562,1.22479 6.15589,-0.56755 1.44027,-1.79234 1.06809,-4.75357 -0.77093,-6.13374 0,0 -3.90122,-3.09775 -9.33394,-6.34228 -2.33457,-1.39425 -5.10594,-2.7929 -7.89793,-4.06863 5.29011,-2.49803 10.64433,-5.17858 17.1122,-8.97494 1.37102,-0.7801 2.243,-2.36371 2.16913,-3.9394 -0.0739,-1.57568 -1.09015,-3.07078 -2.52813,-3.71921 -6.83119,-3.41562 -14.86648,-6.1968 -21.42017,-8.25693 -3.27687,-1.03009 -6.18288,-1.93537 -8.25693,-2.513 -1.03703,-0.28881 -1.9278,-0.44124 -2.513,-0.59832 -0.29259,-0.0786 -0.44706,-0.19883 -0.59832,-0.23933 -0.0756,-0.0203 -0.21643,0.006 -0.23933,0 -0.19729,-0.0568 -0.35066,-0.0986 -0.47867,-0.11963 -0.1969,-0.0327 -0.36055,0.006 -0.47867,0 -0.23633,-0.0141 -0.36646,-0.006 -0.47865,0 -0.22447,0.0126 -0.37997,-0.0141 -0.47867,0 -0.19747,0.0277 -0.23106,-0.026 -0.359,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scssscscscccscscccsccsccscccsccscscscsccscssccccccccc" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4698"
+       y="962.00787"
+       x="77.952759"
+       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         y="962.00787"
+         x="77.952759"
+         sodipodi:role="line"
+         id="tspan4728">www.srobo.org</tspan><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         y="974.50787"
+         x="77.952759"
+         sodipodi:role="line"
+         id="tspan3094">/sbv4</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4714"
+       width="63.779533"
+       height="17.716522"
+       x="924.8031"
+       y="-19.48819"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:6px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-995.66925"
+       y="8.8582678"
+       id="text4724-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4726-8"
+         x="-995.66925"
+         y="8.8582678"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile">part</tspan><tspan
+         sodipodi:role="line"
+         x="-995.66925"
+         y="15.108268"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         id="tspan3008">code:</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="125%"
+       id="text3010"
+       y="14.173228"
+       x="-1009.8425"
+       style="font-size:6px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Eurostile"
+       xml:space="preserve"><tspan
+         id="tspan3014"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         y="14.173228"
+         x="-1009.8425"
+         sodipodi:role="line">SR</tspan></text>
+  </g>
+</svg>
