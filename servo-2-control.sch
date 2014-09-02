@@ -11,7 +11,7 @@ T 72700 37600 9 10 1 0 0 0 1
 T 74500 37600 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 74500 37900 9 10 1 0 0 0 1
-A
+B
 C 46000 45600 1 0 0 usb-microb.sym
 {
 T 46000 47800 5 10 1 1 0 0 1

@@ -11,7 +11,7 @@ T 75200 44600 9 10 1 0 0 0 1
 T 77000 44600 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 77000 44900 9 10 1 0 0 0 1
-A
+B
 C 60700 52600 1 0 0 MCP23017-SS.sym
 {
 T 62500 58200 5 10 0 0 0 0 1

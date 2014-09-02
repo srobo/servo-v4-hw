@@ -11,7 +11,7 @@ T 67700 41100 9 10 1 0 0 0 1
 T 69500 41100 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 69500 41400 9 10 1 0 0 0 1
-A
+B
 C 41000 59300 1 0 0 connector2-1.sym
 {
 T 42800 60200 5 10 0 0 0 0 1
