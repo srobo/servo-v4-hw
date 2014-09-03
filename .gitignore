@@ -2,6 +2,6 @@
 *-
 *.bak*
 *.new.pcb
-*.png
+/*.png
 servo-schematic.pdf
 bom.html
