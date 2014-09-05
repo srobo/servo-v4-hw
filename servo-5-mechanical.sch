@@ -120,3 +120,14 @@ refdes=MP12
 T 67900 54500 5 10 1 1 0 1 1
 value=sr-mech-spacer-ni-m3-14
 }
+C 60500 52300 1 0 0 misc-mech-1.sym
+{
+T 60500 53400 5 10 0 0 0 0 1
+device=MISCMECH
+T 60500 52800 5 10 1 1 0 0 1
+refdes=MP13
+T 61400 52600 5 10 1 1 0 0 1
+value=sr-nothing
+T 61400 52300 5 10 1 1 0 0 1
+comment=case.dxf in 3mm clear acrylic
+}
