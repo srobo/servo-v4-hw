@@ -56,3 +56,5 @@ Figure 1 shows a board with the power and FTDI cables connected and the location
    | DS10 flash red   | DS10, R5, U2, Y1               |
 
 10. Turn off bench power supply and remove power/USB cables ready for the next board
+
+![LED Positions](figure1.png)
