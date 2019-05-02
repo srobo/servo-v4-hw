@@ -33,7 +33,7 @@ T 42300 44000 9 10 1 0 0 1 1
 Output (I2C Isolator, GPIO Expander, Servo Outputs)
 T 40500 40500 9 45 1 0 0 0 2
 The full source of this design is available at:
-https://www.studentrobotics.org/git/boards/servo-v4-hw.git
+https://github.com/srobo/servo-v4-hw
 T 70000 40400 9 10 1 0 0 0 1
 B
 V 58000 60000 1500 3 100 1 0 -1 -1 0 -1 -1 -1 -1 -1
